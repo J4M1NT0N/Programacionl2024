@@ -1,0 +1,4 @@
+Se necesitas definir una clase llamada Caja que represente una caja con propiedades para su alto, largo y ancho, así como
+un método para calcular su volumen. Luego, crea un array o una lista de objetos de tipo Caja con los valores de las dimensiones
+de cada caja. Despues se utiliza un bucle para recorrer todas las cajas, calcular su volumen y luego obtener el volumen total
+y el volumen promedio. Por ultimo mostramos el volumen total y el volumen promedio en la consola.
