@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\bin\Debug\net8.0\Desafios6.exe
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\bin\Debug\net8.0\Desafios6.deps.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\bin\Debug\net8.0\Desafios6.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\bin\Debug\net8.0\Desafios6.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\bin\Debug\net8.0\Desafios6.pdb
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\Desafios6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\Desafios6.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\Desafios6.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\Desafios6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\Desafios6.sourcelink.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\Desafios6.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\refint\Desafios6.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\Desafios6.pdb
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\Desafios6.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Desafios6\Desafios6\obj\Debug\net8.0\ref\Desafios6.dll
