@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\bin\Debug\net8.0\Desafio3.exe
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\bin\Debug\net8.0\Desafio3.deps.json
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\bin\Debug\net8.0\Desafio3.runtimeconfig.json
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\bin\Debug\net8.0\Desafio3.dll
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\bin\Debug\net8.0\Desafio3.pdb
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\Desafio3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\Desafio3.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\Desafio3.dll
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\refint\Desafio3.dll
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\Desafio3.pdb
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\Desafio3.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\Desafios7\Desafio3\obj\Debug\net8.0\ref\Desafio3.dll
