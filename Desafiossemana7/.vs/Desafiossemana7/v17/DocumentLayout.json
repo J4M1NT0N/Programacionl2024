@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Desafiossemana7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{835E9D11-9A62-4121-978D-E5ACD6F8463C}|Desafio2\\Desafio2.csproj|c:\\users\\lenovo\\desktop\\git hub\\programacionl2024\\desafiossemana7\\desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835E9D11-9A62-4121-978D-E5ACD6F8463C}|Desafio2\\Desafio2.csproj|solutionrelative:desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAC5D8-610D-4BC0-A0A9-2DEFE463B728}|Desafiossemana7\\Desafiossemana7.csproj|c:\\users\\lenovo\\desktop\\git hub\\programacionl2024\\desafiossemana7\\desafiossemana7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAC5D8-610D-4BC0-A0A9-2DEFE463B728}|Desafiossemana7\\Desafiossemana7.csproj|solutionrelative:desafiossemana7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Desafiossemana7\\Desafio2\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Desafiossemana7\\Desafio2\\Program.cs",
+              "RelativeToolTip": "Desafio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:00:01.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Desafiossemana7\\Desafiossemana7\\Program.cs",
+              "RelativeDocumentMoniker": "Desafiossemana7\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Desafiossemana7\\Desafiossemana7\\Program.cs",
+              "RelativeToolTip": "Desafiossemana7\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwE4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:00:01.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
