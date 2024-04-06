@@ -6,25 +6,22 @@ namespace PolimorfismoCurso
 {
     class Auto
     {
-        // Propiedades
         public int HP { get; set; }
         public string Color { get; set; }
-        public string Marca { get; set; }  // Agregamos la propiedad Marca
+        public string Marca { get; set; }
         public List<string> HistoriaDeReparaciones { get; set; }
 
-        // Constructor parametrizado
-        public Auto(int hp, string color, string marca)  // Agregamos marca al constructor
+        public Auto(int hp, string color, string marca)
         {
             HP = hp;
             Color = color;
-            Marca = marca;  // Inicializamos la propiedad Marca
+            Marca = marca;
             HistoriaDeReparaciones = new List<string>();
         }
 
-        // Métodos
         public void MostrarDetalles()
         {
-            Console.WriteLine("Marca: {0} - HP: {1} - Color: {2}", Marca, HP, Color);  // Usamos la propiedad Marca
+            Console.WriteLine("Marca: {0} - HP: {1} - Color: {2}", Marca, HP, Color);
         }
 
         public virtual void Reparar()
@@ -39,7 +36,7 @@ namespace PolimorfismoCurso
 
         public void GuardarHistoriaDeReparaciones(string modelo)
         {
-            string path = $"{Marca}_{modelo}_Reparaciones.txt";  // Usamos la propiedad Marca
+            string path = $"{Marca}_{modelo}_Reparaciones.txt";
             using (StreamWriter sw = File.CreateText(path))
             {
                 foreach (var reparacion in HistoriaDeReparaciones)
@@ -51,7 +48,7 @@ namespace PolimorfismoCurso
 
         public void MostrarHistoriaDeReparaciones(string modelo)
         {
-            string path = $"{Marca}_{modelo}_Reparaciones.txt";  // Usamos la propiedad Marca
+            string path = $"{Marca}_{modelo}_Reparaciones.txt";
             if (File.Exists(path))
             {
                 using (StreamReader sr = File.OpenText(path))
@@ -73,16 +70,13 @@ namespace PolimorfismoCurso
 
     class Audi : Auto
     {
-        // Constructor
-        public Audi(int hp, string color, string modelo) : base(hp, color, "Audi")  // Pasamos "Audi" como marca
+        public Audi(int hp, string color, string modelo) : base(hp, color, "Audi")
         {
             Modelo = modelo;
         }
 
-        // Variables
         public string Modelo { get; set; }
 
-        // Métodos
         public void MostrarDetalles()
         {
             Console.WriteLine("Marca: {0} - Modelo: {1} - HP: {2} - Color: {3}", Marca, Modelo, HP, Color);
@@ -98,16 +92,13 @@ namespace PolimorfismoCurso
 
     class BMW : Auto
     {
-        // Constructor
-        public BMW(int hp, string color, string modelo) : base(hp, color, "BMW")  // Pasamos "BMW" como marca
+        public BMW(int hp, string color, string modelo) : base(hp, color, "BMW")
         {
             Modelo = modelo;
         }
 
-        // Variables
         public string Modelo { get; set; }
 
-        // Métodos
         public void MostrarDetalles()
         {
             Console.WriteLine("Marca: {0} - Modelo: {1} - HP: {2} - Color: {3}", Marca, Modelo, HP, Color);
