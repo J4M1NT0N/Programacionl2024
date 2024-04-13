@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\bin\Debug\net8.0\DesafioSemana9.exe
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\bin\Debug\net8.0\DesafioSemana9.deps.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\bin\Debug\net8.0\DesafioSemana9.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\bin\Debug\net8.0\DesafioSemana9.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\bin\Debug\net8.0\DesafioSemana9.pdb
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\DesafioSemana9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\DesafioSemana9.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\DesafioSemana9.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\DesafioSemana9.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\DesafioSemana9.sourcelink.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\DesafioSemana9.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\refint\DesafioSemana9.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\DesafioSemana9.pdb
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\DesafioSemana9.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\DesafioSemana9\DesafioSemana9\obj\Debug\net8.0\ref\DesafioSemana9.dll
