@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\bin\Debug\net8.0-windows\Session10.exe
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\bin\Debug\net8.0-windows\Session10.deps.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\bin\Debug\net8.0-windows\Session10.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\bin\Debug\net8.0-windows\Session10.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\bin\Debug\net8.0-windows\Session10.pdb
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.Form1.resources
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.sourcelink.json
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\refint\Session10.dll
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.pdb
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\Session10.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Session10\Session10\obj\Debug\net8.0-windows\ref\Session10.dll

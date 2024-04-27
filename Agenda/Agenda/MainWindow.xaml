@@ -1,0 +1,39 @@
+﻿<Window x:Class="Agenda.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Agenda"
+        mc:Ignorable="d"
+        Title="Agenda" Height="350" Width="500">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+                <TextBox x:Name="txtNombreTarea" Width="150" Margin="0,0,10,0"/>
+                <TextBox x:Name="txtDescripcion" Width="250" Margin="0,0,10,0"/>
+                <DatePicker x:Name="dpDate" Width="120" Margin="0,0,10,0"/>
+                <Button Content="Anadir Tarea" Click="AddTask_Click"/>
+            </StackPanel>
+
+            <ListBox x:Name="ListaTarea" Grid.Row="1" Margin="10">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold" Text="{Binding Name}"/>
+                            <TextBlock Text="{Binding Description}"/>
+                            <TextBlock Text="{Binding Date, StringFormat='dd/mm/aaaa'}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <Button Grid.Row="2" Content="Borrar Tarea Seleccionada" Click="DeleteTask_Click" HorizontalAlignment="Center" Margin="0,10"/>
+        </Grid>
+    </Grid>
+</Window>
