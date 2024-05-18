@@ -25,13 +25,10 @@ namespace Desafio10
         {
             List<Juego> juegos = new List<Juego>();
 
-            // Ruta del archivo de texto
             string filePath = "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Desafio10\\Desafio10\\textojuego.txt";
 
-            // Leer todas las líneas del archivo
             string[] lines = File.ReadAllLines(filePath);
 
-            // Procesar cada línea para crear un objeto Juego
             foreach (string line in lines)
             {
                 string[] datos = line.Split(',');
@@ -49,7 +46,6 @@ namespace Desafio10
                 }
             }
 
-            // Asignar la lista de juegos al ListBox
             lbJuego.ItemsSource = juegos;
         }
 
