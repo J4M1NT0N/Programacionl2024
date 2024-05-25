@@ -1,0 +1,13 @@
+﻿<Window x:Class="Semana13BD.AgregarEditarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Agregar/Editar Producto" Height="200" Width="300">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBox x:Name="NombreTextBox" Text="Nombre" Margin="0,0,0,10"/>
+            <TextBox x:Name="PrecioTextBox" Text="Precio" Margin="0,0,0,10"/>
+            <TextBox x:Name="StockTextBox" Text="Stock" Margin="0,0,0,10"/>
+            <Button Content="Guardar" Click="Guardar_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
