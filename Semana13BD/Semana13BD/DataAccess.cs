@@ -13,7 +13,7 @@ namespace Semana13BD
     internal class DataAccess
     {
         public const string CONNECTION_STRING = "Data Source=DESKTOP-SB259SK\\SQLEXPRESS;Initial Catalog=Escuela;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
-        public const string CADENA_SQL_SERVER = "Server=DESKTOP-SB259SK\\SQLEXPRESS;Integrated Security=true;Initial Catalog=Escuela";
+        public const string CADENA_SQL_SERVER = "Server=DESKTOP-SB259SK\\SQLEXPRESS;Integrated Security=true;Initial Catalog=Escuela;TrustServerCertificate=True";
         //ADO.NET
         public List<Alumno> GetAllAdoNet()
         {

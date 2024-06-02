@@ -28,12 +28,9 @@ C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debu
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
-C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
-C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\System.Memory.Data.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
-C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
@@ -56,7 +53,6 @@ C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debu
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
-C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\InsertWindow.baml
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\MainWindow.baml
@@ -67,7 +63,6 @@ C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debu
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\Semana13BD.AssemblyInfo.cs
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\Semana13BD.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\Semana13BD.sourcelink.json
-C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\Semana13BD.csproj.CopyComplete
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\Semana13BD.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\refint\Semana13BD.dll
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\Semana13BD.pdb
@@ -77,3 +72,4 @@ C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debu
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\EditarAgregar.baml
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\AgregarEditarWindow.g.cs
 C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\EditarAgregar.g.cs
+C:\Users\LENOVO\Desktop\Git Hub\Programacionl2024\Semana13BD\Semana13BD\obj\Debug\net8.0-windows\Semana13BD.csproj.Up2Date

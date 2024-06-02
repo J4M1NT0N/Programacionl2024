@@ -1,0 +1,34 @@
+﻿<Window x:Class="ProyectoFinal.Dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:LiveCharts="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        mc:Ignorable="d"
+        Title="Dashboard" Height="600" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Dashboard" FontSize="24" FontWeight="Bold" Margin="10"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0" Margin="10">
+                    <TextBlock Text="Resumen de Inventario" FontSize="18" FontWeight="Bold"/>
+                    <TextBlock x:Name="txtTotalProductos"/>
+                    <TextBlock x:Name="txtProductosEnStock"/>
+                    <TextBlock x:Name="txtValorTotalInventario"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Margin="10">
+                    <TextBlock Text="Transacciones Recientes" FontSize="18" FontWeight="Bold"/>
+                    <ListBox x:Name="lstTransaccionesRecientes"/>
+                </StackPanel>
+            </Grid>
+            <TextBlock Text="Estadísticas de Ventas" FontSize="18" FontWeight="Bold" Margin="10"/>
+            <LiveCharts:CartesianChart x:Name="chartVentas" Height="200"/>
+            <TextBlock Text="Movimientos de Caja Recientes" FontSize="18" FontWeight="Bold" Margin="10"/>
+            <ListBox x:Name="lstMovimientosRecientes"/>
+        </StackPanel>
+    </Grid>
+</Window>

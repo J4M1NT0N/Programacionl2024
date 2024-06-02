@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|c:\\users\\lenovo\\desktop\\git hub\\programacionl2024\\semana13bd\\semana13bd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\semana13bd\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\semana13bd\\agregareditarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\agregareditarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|c:\\users\\lenovo\\desktop\\git hub\\programacionl2024\\semana13bd\\semana13bd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\semana13bd\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\semana13bd\\editaragregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\editaragregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\semana13bd\\editaragregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\editaragregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\semana13bd\\agregareditarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\agregareditarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\semana13bd\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\semana13bd\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{61FB2CF2-1D6A-4DAE-9AE5-0BC62C1D42DE}|Semana13BD\\Semana13BD.csproj|solutionrelative:semana13bd\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Semana13BD\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\MainWindow.xaml",
+              "RelativeToolTip": "Semana13BD\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T15:31:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarAgregar.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\EditarAgregar.xaml",
+              "RelativeDocumentMoniker": "Semana13BD\\EditarAgregar.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\EditarAgregar.xaml",
+              "RelativeToolTip": "Semana13BD\\EditarAgregar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T03:40:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\Producto.cs",
+              "RelativeDocumentMoniker": "Semana13BD\\Producto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\Producto.cs",
+              "RelativeToolTip": "Semana13BD\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:38:41.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarEditarWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\AgregarEditarWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Semana13BD\\AgregarEditarWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\AgregarEditarWindow.xaml.cs",
+              "RelativeToolTip": "Semana13BD\\AgregarEditarWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:36:02.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Semana13BD\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Semana13BD\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:57:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Semana13BD\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\DataAccess.cs",
+              "RelativeToolTip": "Semana13BD\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwA4AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:06:37.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarAgregar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\EditarAgregar.xaml.cs",
+              "RelativeDocumentMoniker": "Semana13BD\\EditarAgregar.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\EditarAgregar.xaml.cs",
+              "RelativeToolTip": "Semana13BD\\EditarAgregar.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:41:48.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgregarEditarWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\AgregarEditarWindow.xaml",
+              "RelativeDocumentMoniker": "Semana13BD\\AgregarEditarWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\AgregarEditarWindow.xaml",
+              "RelativeToolTip": "Semana13BD\\AgregarEditarWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T03:35:16.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\Venta.cs",
+              "RelativeDocumentMoniker": "Semana13BD\\Venta.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\Venta.cs",
+              "RelativeToolTip": "Semana13BD\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:14:39.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery4.sql",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\SQLQuery4.sql",
+              "RelativeDocumentMoniker": "Semana13BD\\SQLQuery4.sql",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git Hub\\Programacionl2024\\Semana13BD\\Semana13BD\\SQLQuery4.sql",
+              "RelativeToolTip": "Semana13BD\\SQLQuery4.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
+              "WhenOpened": "2024-05-25T02:18:50.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
