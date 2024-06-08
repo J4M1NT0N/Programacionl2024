@@ -1,0 +1,14 @@
+﻿<Window x:Class="ExamenFinal.ActualizarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Actualizar Producto" Height="300" Width="400">
+    <Grid>
+        <StackPanel>
+            <ComboBox Name="UsuarioComboBox" Margin="5" DisplayMemberPath="Nombre" SelectedValuePath="Usuario"/>
+            <TextBox Name="NombreTextBox" Margin="5" Text="Nombre"/>
+            <TextBox Name="PrecioTextBox" Margin="5" Text="Precio"/>
+            <TextBox Name="ExistenciaTextBox" Margin="5" Text="Existencia"/>
+            <Button Name="ActualizarButton" Content="Actualizar" Margin="5" Click="ActualizarButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
