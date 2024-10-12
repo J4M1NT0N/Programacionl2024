@@ -17,7 +17,7 @@ public class AppDbContext : DbContext
         public int Existencia { get; set; }
     }
 
-    public class Usuario
+    public class Usuarioo
     {
         public string Usuario { get; set; }
         public string Nombre { get; set; }
